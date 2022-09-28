@@ -1,25 +1,25 @@
 {
-  "store_id": 45191,
-  "name": "llaimports1",
   "domain": "llaimports1.netlify.app",
-  "short_name": "llaimports1",
-  "description": "llaimports1",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "llaimports1",
+  "short_name": "LLA IMPORTS RELÓGIOS E JÓIAS",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 45191,
+  "description": "A LLA IMPORTS RELÓGIOS é uma loja online com seu ponto de atendimento no Rio de Janeiro RJ. Estamos no mercado a mais de 9 anos e já somos uma das melhores loja online de relógios do Rio De Janeiro. Vendemos relógios e acessórios para homens e mulheres que gostam de estilo e elegância. Nossa principal missão é fornecer aos nossos clientes o melhor produto agregado com o menor preço.",
+  "large_icon": "/img/large-icon.png"
 }
