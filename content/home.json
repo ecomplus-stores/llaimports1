@@ -5,15 +5,15 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/relogios-e-joias.png",
           "link": "/headset",
           "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/relogio-masculino-dourado-robusto-e-pesado-na-caixa-pulseira-1-.png"
+          "start": "",
+          "end": "",
+          "mobile_img": "/img/uploads/relogio-masculino-dourado-robusto-e-pesado-na-caixa-pulseira-de-aco.png"
         },
         {
           "start": "",
