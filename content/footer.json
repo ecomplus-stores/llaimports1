@@ -6,7 +6,9 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {}
+    ]
   },
   "links_2": {
     "list_categories": true,
@@ -33,12 +35,13 @@
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
     "bradesco": true,
     "santander": false,
     "mastercard": true,
     "citibank": false,
+    "hiper": false,
     "mais": false,
     "itau": true
   },
