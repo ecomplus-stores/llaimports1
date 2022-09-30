@@ -8,7 +8,7 @@
     "text": "Parcele Sem Juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Enviamos em Até 48hs Úteis"
   },
   "promo": {
