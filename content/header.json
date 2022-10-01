@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "DESDE DE 2018 MAIS DE 6 MIL PEDIDOS ENVIADOS!",
-    "link": "https://llaimports1.netlify.app/relogios-masculino-barato"
+    "link": "https://llaimports1.netlify.app/relogios-masculino-barato",
+    "background": "#675b5b"
   },
   "contacts_stripe": {
     "pages": [],
@@ -11,10 +12,10 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": false
+  "full_width_submenu": true
 }
