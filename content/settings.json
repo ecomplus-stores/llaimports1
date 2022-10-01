@@ -1,10 +1,10 @@
 {
   "domain": "www.llaimports.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#393e46",
+  "primary_color": "#bb8b08",
   "theme": {
     "bootswatch": "cyborg",
-    "custom": "clean-white"
+    "custom": "clean-dark"
   },
   "bg_color": "#000000",
   "logo": "/img/uploads/relogio-masculino-dourado-robusto-e-pesado-na-caixa-pulseira-de-aco-1-.png",
@@ -15,9 +15,9 @@
   "mini_logo": "",
   "font_family": "Open Sans",
   "favicon": "/img/uploads/relogio-masculino-prova-d-agua-digital-esportivo-diversas-cores-lancamento.-2-1-.png",
-  "icons_font": "font-awesome",
+  "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#0101da",
+  "secondary_color": "#0216ff",
   "icon": "/img/uploads/relogios_e_joias__4_-removebg-preview.png",
   "store_id": 45191,
   "description": "A LLA IMPORTS RELÓGIOS é uma loja online com seu ponto de atendimento no Rio de Janeiro RJ. Estamos no mercado a mais de 9 anos e já somos uma das melhores loja online de relógios do Rio De Janeiro. Vendemos relógios e acessórios para homens e mulheres que gostam de estilo e elegância. Nossa principal missão é fornecer aos nossos clientes o melhor produto agregado com o menor preço.",
