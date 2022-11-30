@@ -31,8 +31,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "632a740273321213f883ed32:brands:INVCTA:/invcta",
-      "sort": "news",
+      "collection_id": "623fccbb2e405e04ff011192:categories:Relógios Masculino:/relogios-masculino",
+      "sort": "views",
       "title": "MAIS VENDIDOS",
       "headless": false,
       "limit": 8,
