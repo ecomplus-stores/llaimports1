@@ -35,7 +35,7 @@
       "sort": "news",
       "title": "MAIS VENDIDOS",
       "headless": false,
-      "limit": 8,
+      "limit": 4,
       "page": 4
     },
     {
