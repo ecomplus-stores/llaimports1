@@ -1,6 +1,6 @@
 {
-  "meta_title": "Relógio Masculino com Desconto em Até 12x S/ Juros.",
-  "meta_description": "Em Busca de Excelentes Relógios? Acesse o Site Agora Mesmo! Compre com Desconto.  Não Perca Tempo. Diversos Modelos em Até 12x S/ Juros. Envio em Até 48hs Úteis.",
+  "meta_title": "Lista de fornecedores",
+  "meta_description": "Em busca da melhor lista de fornecedores de relógio? Venha aqui e adquira a sua",
   "sections": [
     {
       "type": "banner-slider",
@@ -29,30 +29,9 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "623fccbb2e405e04ff011192:categories:Relógios Masculino:/relogios-masculino",
-      "sort": "views",
-      "title": "MAIS VENDIDOS",
-      "headless": false,
-      "limit": 8,
-      "page": 4
-    },
-    {
       "type": "page-title",
-      "title": "As Melhores Promoções em Relógios e Jóias!",
+      "title": "Melhor lista de fornecedores",
       "description": ""
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-10-01T03:07:21.440Z",
-      "end": "2023-01-01T03:07:00.292Z"
     }
   ]
 }
