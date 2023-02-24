@@ -3,35 +3,22 @@
   "meta_description": "Em busca da melhor lista de fornecedores de relógio? Venha aqui e adquira a sua",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "img": "/img/uploads/2.png",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "",
-          "end": "",
-          "mobile_img": "/img/uploads/relogio-masculino-dourado-robusto-e-pesado-na-caixa-pulseira-3-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/1.png",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/relogio-masculino-dourado-robusto-e-pesado-na-caixa-pulseira-2-.png"
-        }
-      ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "page-title",
       "title": "Melhor lista de fornecedores",
       "description": ""
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/img_7908.jpg",
+          "link": "https://pay.kiwify.com.br/jvlld83"
+        },
+        {
+          "img": "/img/uploads/img_7907.jpg",
+          "link": "https://pay.kiwify.com.br/dbSfHB9"
+        }
+      ]
     }
   ]
 }
